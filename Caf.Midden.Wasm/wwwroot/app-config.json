@@ -1,8 +1,8 @@
 {
   "schemaVersion": "v0.1",
   "isConfigured": true,
-  "organizationName": "Your Organization",
-  "toolName": "Metadata Tool",
+  "organizationName": "AgAID Institute",
+  "toolName": "AgAID Institute Data Catalog",
   "zones": [
     "Raw",
     "Work",
